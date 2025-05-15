@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "BUTTER",
+  "identifier": "texture:19709295-3cf2e33f-b7d8-4775-9e1b-66b8c0759170",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "82459ccfdf6d1b4e3429c60454841183",
+  "assetLocator": "textures/BUTTER.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 779,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "82459ccfdf6d1b4e3429c60454841183",
+      "colorCount": 8089,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.8368960372954466,
+      "pixelsHigh": 779,
+      "pixelsWide": 1024
+    }
+  ]
+}

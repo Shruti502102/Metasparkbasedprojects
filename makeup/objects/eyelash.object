@@ -1,0 +1,416 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "eyelash",
+  "identifier": "master3_d_object_model:228379-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+  "sourceIdentifier": "asset_collection_model:228383-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "globalScaleFactor": 1,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "Eyelashes_GRP",
+      "identifier": "sceneObject:228352-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "Base_JNT",
+          "identifier": "sceneObject:228354-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "skeleton",
+              "name": "skeleton",
+              "identifier": "skeleton:228346-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "inverseBindMatrices": [
+                {
+                  "m11": 1,
+                  "m12": 0,
+                  "m13": -4.440892098500626E-16,
+                  "m14": 0,
+                  "m21": -7.235131193365688E-23,
+                  "m22": 1,
+                  "m23": -1.6292067073209182E-7,
+                  "m24": 0,
+                  "m31": 4.440892098500626E-16,
+                  "m32": 1.6292067073209182E-7,
+                  "m33": 1,
+                  "m34": 0,
+                  "m41": 0.01843027025461197,
+                  "m42": -0.03142526373267174,
+                  "m43": 0.036631278693675995,
+                  "m44": 1
+                },
+                {
+                  "m11": 1,
+                  "m12": -3.1554436208840472E-30,
+                  "m13": 1.8307853501760193E-16,
+                  "m14": 0,
+                  "m21": 2.982727889940062E-23,
+                  "m22": 1,
+                  "m23": -1.6292067073209182E-7,
+                  "m24": 0,
+                  "m31": -1.8307853501760193E-16,
+                  "m32": 1.6292067073209182E-7,
+                  "m33": 1,
+                  "m34": 0,
+                  "m41": 0.03249895200133324,
+                  "m42": -0.03745276480913162,
+                  "m43": 0.030993498861789703,
+                  "m44": 1
+                },
+                {
+                  "m11": 1,
+                  "m12": 0,
+                  "m13": 0,
+                  "m14": 0,
+                  "m21": 0,
+                  "m22": 1,
+                  "m23": -1.6292067073209182E-7,
+                  "m24": 0,
+                  "m31": 0,
+                  "m32": 1.6292067073209182E-7,
+                  "m33": 1,
+                  "m34": 0,
+                  "m41": 0.04636318236589432,
+                  "m42": -0.03206527605652809,
+                  "m43": 0.042347412556409836,
+                  "m44": 1
+                }
+              ],
+              "jointIdentifiers": [
+                "joint:228356-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+                "joint:228360-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+                "joint:228364-d44b8152-b64a-4d5c-b12a-5c665b6db54d"
+              ],
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "children": [
+                {
+                  "modelName": "joint",
+                  "name": "Outside_JNT",
+                  "identifier": "joint:228364-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -0.04636318236589432,
+                    "y": 0.03206527605652809,
+                    "z": -0.042347412556409836
+                  },
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Outside_JNT_end",
+                      "identifier": "sceneObject:228366-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0.060214996337890625,
+                        "z": 0
+                      }
+                    }
+                  ]
+                },
+                {
+                  "modelName": "joint",
+                  "name": "Center_JNT",
+                  "identifier": "joint:228360-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -0.03249895200133324,
+                    "y": 0.03745276853442192,
+                    "z": -0.030993498861789703
+                  },
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Center_JNT_end",
+                      "identifier": "sceneObject:228362-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0.06021500006318092,
+                        "z": 0
+                      }
+                    }
+                  ]
+                },
+                {
+                  "modelName": "joint",
+                  "name": "Inside_JNT",
+                  "identifier": "joint:228356-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -0.01843027025461197,
+                    "y": 0.03142526373267174,
+                    "z": -0.036631278693675995
+                  },
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Inside_JNT_end",
+                      "identifier": "sceneObject:228358-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0.060214996337890625,
+                        "z": 0
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "mesh",
+      "name": "Eyelashes_GEO",
+      "identifier": "mesh:228368-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "nodeName": "Eyelashes_GEO",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:228374-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "skeletonIdentifier": "skeleton:228346-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:228370-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:228377-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+              "isMaterialIdentifierEnabled": true,
+              "joints": [
+                "joint:228356-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+                "joint:228360-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+                "joint:228364-d44b8152-b64a-4d5c-b12a-5c665b6db54d"
+              ],
+              "materialIdentifier": "dependent_material_model:228348-d44b8152-b64a-4d5c-b12a-5c665b6db54d",
+              "surfaceGroupIdentifier": ""
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:228372-d44b8152-b64a-4d5c-b12a-5c665b6db54d"
+        }
+      ]
+    }
+  ]
+}

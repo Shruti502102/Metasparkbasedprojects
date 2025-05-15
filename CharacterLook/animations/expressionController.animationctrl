@@ -1,0 +1,12 @@
+{
+  "modelName": "animation_playback_controller_model",
+  "name": "expressionController",
+  "identifier": "animation_playback_controller_model:14760338-4d7acbed-a945-4e3a-a403-0d08a22932ad",
+  "animationIdentifier": "animations/expressionsKeyframe.animation",
+  "autoPlay": true,
+  "clipEnd": 6.666666666666667,
+  "clipProgress": 0,
+  "clipStart": 0,
+  "loop": true,
+  "speed": 1
+}

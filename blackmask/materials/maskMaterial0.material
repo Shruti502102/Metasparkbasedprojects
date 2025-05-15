@@ -1,0 +1,27 @@
+{
+  "modelName": "blendedMaterial",
+  "name": "maskMaterial0",
+  "identifier": "blendedMaterial:19718185-3cf2e33f-b7d8-4775-9e1b-66b8c0759170",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "blendMode": "Multiply",
+  "cullMode": "back",
+  "diffuseTextureName": "texture:19717605-3cf2e33f-b7d8-4775-9e1b-66b8c0759170",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "importIssues": {},
+  "isDiffuseTextureIdentifierEnabled": true,
+  "readDepth": true,
+  "transparency": 0.7000000000000001,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}
